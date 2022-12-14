@@ -59,7 +59,7 @@ You can make Feature Requests and BUG Reports from [Issues](https://github.com/A
 - [Virus TI USB Audio Config Guide](https://docs.auraplugins.com/kb/article/virus-ti-usb-audio-with-every-macos/) (macOS 10.12 and greater)
 - [Access Virus Configuration Guide](https://docs.auraplugins.com/kb/article/configure-access-virus-a-to-ti2/)
 - [DAW Setup Guides](https://docs.auraplugins.com/kb/articles/category/software-configuration/)
-- [Access Virus Editor Changelog](https://docs.auraplugins.com/kb/article/access-virus-editor-changelog/)
+- [Access Virus Editor Changelog](https://github.com/AURAPluginsLtd/Access-Virus-Editor/blob/main/changelog.md)
 
 Data folder contains all of the data files needed to run the plugin. Copy the contents of the folder to respected location:
 
