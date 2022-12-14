@@ -72,3 +72,9 @@ Windows:
 
 * data; C:\ProgramData\AURA Plugins\Access Virus Editor\
 * patches; ~\Music\AURA Plugins\Access Virus Editor\
+
+# Full License
+
+You can also support our work by purchasing a full license to our product. This gives you ability to store and recall data as you work with your projects, including Patch Banks, MIDI CC maps, UI DATA etc. Automation is also enabled directly from your DAW.
+
+[Get Full License](https://auraplugins.com/product/access-virus-editor/)
