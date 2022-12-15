@@ -1,0 +1,4 @@
+<strong>Version 3.0.0 build 9026 / 2022-Nov-11</strong>
+
+* [New] Utilities menu has a new item "Snap Slider to Mouse Position" which does what it says. This ensures values won't be snapped to current click position.
+* [Fixed] MIDI Port names length changed to 64 characters. This ensures MIDI interfaces with multiple ports can comply with the project recall.
