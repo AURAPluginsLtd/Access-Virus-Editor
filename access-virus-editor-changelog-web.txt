@@ -1,4 +1,27 @@
-<strong>Version 3.0.0 build 9026 / 2022-Nov-11</strong>
+<strong>Version 3.0.0 build 9033 / 2023-Mar-13</strong>
 
-* [New] Utilities menu has a new item "Snap Slider to Mouse Position" which does what it says. This ensures values won't be snapped to current click position.
-* [Fixed] MIDI Port names length changed to 64 characters. This ensures MIDI interfaces with multiple ports can comply with the project recall.
+[fixed] Resolved issue where legacy patch data was not loaded properly when Virus TI was chosen as active model.
+[fixed] Resolved issue where Mod Matrix Distortion Mix destination was not working.
+[fixed] Resolved issue where selected bank character was incorrect.
+[fixed] Resolved Pro Tools crash when removing Editor with MIDI I/O set.
+[fixed] Automation works from Editor itself, external midi controller or from hardware itself.
+[fixed] Resolved issue where arp mode didn't work as expected.
+[fixed] Resolved issue where global arp switch didn't work as expected.
+[fixed] Resolved issue where disabling / enabling global EQ displayed EQ parameters on top of Multimode Mixer view.
+[fixed] Resolved issue where User Interface was not drawn properly on different screen sizes.
+[fixed] Resolved issue where filter 1 mode was always set to LP on Virus A, Virus Rack and Virus B.
+[fixed] Some list items displayed wrong value in User Interface.
+[fixed] Resolved issue where onscreen keyboard was not shown even when it was toggled on after closing the editor window.
+[fixed] Resolved issue where user interface scaling didn't work as expected on smaller displays (i.e. macbooks with 13-inch display).
+[fixed] Resolved issue where MIDI I/O was not recalled as expected after updating the MIDI framework.
+[new] Sliders can be set to snap on mouse position or adjust freely from clicked position.
+[new] Category browsing can be limited to currently active bank from Editor Preferences menu.
+[new] User can now sync single part from hardware to Editor with Sync Data from HW button when main TAB is not set to MULTIMODE MIXER view.
+[new] Added function that will display a new window if Total Recall is interrupted while Session & Editor are loading.
+[new] Disable Total Recall function added to Editor Preferences menu.
+[new] Randomizer can now be limited to randomize active TAB content only, ie. Effects 1. This option has been added to Editor Preferences menu.
+[new] Multimode mixer key range controls now show as a menu when clicked. Same applies to Filter Key Follow Base. 
+[improvement] PC Standalone App MIDI I/O Dropdown menus are now wider.
+[improvement] Request interval is now automated. All patch writing is clocked between 500ms intervals.
+[improvement] MIDI Message handling adjusted.
+[improvement] When global keyboard or control mode is off, data gets sent to hardware more efficiently.
