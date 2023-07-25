@@ -47,7 +47,7 @@ Supported CPU: Intel or Apple Silicon
 
 ## Community
 
-Join our [online community](https://github.com/AURAPluginsLtd/Access-Virus-Editor/discussions) for making this product better.
+Join our [discord community](https://discord.gg/gS2cUemw) to make this product even better.
 
 You can make Feature Requests and BUG Reports from [Issues](https://github.com/AURAPluginsLtd/Access-Virus-Editor/issues) page, follow our development progress from [Projects](https://github.com/orgs/AURAPluginsLtd/projects/6/views/2) page and don't forget to support our work by clicking the Sponsor link at the top of the page, or:
 
